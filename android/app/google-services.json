@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809991010544",
+    "project_id": "authentication-2c138",
+    "storage_bucket": "authentication-2c138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809991010544:android:c1a4f4a50634d98b652a35",
+        "android_client_info": {
+          "package_name": "com.example.allena_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZiChndoD24PvDaX8wL-Qc3GusUj7zEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
